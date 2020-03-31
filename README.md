@@ -13,7 +13,7 @@ Tech Challenge Robot Controller and Drvier Station apps.
     ![wireshark about dialog, folders tab](assets/Wireshark-Folders.png)
 2. Download <a href="https://raw.githubusercontent.com/REVrobotics/FTC-robocol-Wireshark-plugin/master/robocol.lua" download>
 robocol.lua</a>, and put it in that folder.
-3. Restart Wireshark
+3. Restart Wireshark.
 
 Feel free to submit a bug report or a pull request, but please do not contact REV Robotics to ask for Wireshark help.
 
