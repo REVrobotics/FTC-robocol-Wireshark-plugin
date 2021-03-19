@@ -13,8 +13,7 @@ Tech Challenge Robot Controller and Drvier Station apps.
 ## Installing the robocol plugin
 1. From the About Wireshark window, select the folders tab, and click the link next to "Personal Lua Plugins".
     ![wireshark about dialog, folders tab](assets/Wireshark-Folders.png)
-2. Download <a href="https://raw.githubusercontent.com/REVrobotics/FTC-robocol-Wireshark-plugin/master/robocol.lua" download>
-robocol.lua</a>, and put it in that folder.
+2. Download the latest version of `robocol.lua` from the [Releases page](https://github.com/REVrobotics/FTC-robocol-Wireshark-plugin/releases), and put it in that folder.
 3. Restart Wireshark. Wireshark should now be able to recognize and analyze robocol packets.
 
 Feel free to submit a bug report or a pull request, but please do not contact REV Robotics to ask for Wireshark help.
