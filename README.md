@@ -3,10 +3,10 @@ This [Wireshark](https://www.wireshark.org/) plugin will allow you to better ana
 Tech Challenge Robot Controller and Drvier Station apps.
 
 ## Prerequisites for capturing robocol traffic
-* [Your WiFi adapter needs to be in monitor mode](https://wiki.wireshark.org/CaptureSetup/WLAN#Turning_on_monitor_mode).
+* [Your WiFi adapter needs to be in monitor mode](https://gitlab.com/wireshark/wireshark/-/wikis/CaptureSetup/WLAN#turning-on-monitor-mode).
     * [airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng) is a useful tool for this.
     * This only applies when _capturing_ robocol traffic. You do not need to be in monitor mode when you are analyzing a saved packet capture.
-* You need to [set up Wireshark to decrypt the WiFi traffic](https://wiki.wireshark.org/HowToDecrypt802.11).
+* You need to [set up Wireshark to decrypt the WiFi traffic](https://gitlab.com/wireshark/wireshark/-/wikis/HowToDecrypt802.11).
     * Note that the initial WiFi connection (the "4-way handshake") must be included in the capture, or this will not work.
     * You only need to do this when _analyzing_ robocol traffic. You do not need to know the WiFi passwords at the time of capture.
     
