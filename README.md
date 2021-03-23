@@ -1,6 +1,6 @@
 # FTC Robocol Wireshark Plugin
 This [Wireshark](https://www.wireshark.org/) plugin will allow you to better analyze robocol traffic between the FIRST
-Tech Challenge Robot Controller and Drvier Station apps.
+Tech Challenge Robot Controller and Driver Station apps.
 
 ## Prerequisites for capturing robocol traffic
 * [Your WiFi adapter needs to be in monitor mode](https://gitlab.com/wireshark/wireshark/-/wikis/CaptureSetup/WLAN#turning-on-monitor-mode).
